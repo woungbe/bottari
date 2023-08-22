@@ -38,6 +38,4 @@ func main() {
 	fmt.Println("retData : ", st)
 	fmt.Println("retData : ", string(retData))
 
-	retData
-
 }
